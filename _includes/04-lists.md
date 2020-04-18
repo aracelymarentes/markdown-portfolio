@@ -2,4 +2,4 @@
 * PHP
 * HTML
 * Javascript
-  ** Typescript
+  * Typescript
