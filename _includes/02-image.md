@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Aracely Marentes](https://pbs.twimg.com/profile_images/1172538093318156289/M56d7z9I_400x400.jpg)
